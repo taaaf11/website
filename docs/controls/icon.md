@@ -46,7 +46,7 @@ ft.app(target=main)
 
 ### `color`
 
-Icon [color](/docs/guides/python/colors).
+Icon [color](/docs/reference/colors).
 
 ### `name`
 

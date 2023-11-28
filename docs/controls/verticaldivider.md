@@ -66,7 +66,7 @@ ft.app(target=main)
 
 ### `color`
 
-The [color](/docs/guides/python/colors) to use when painting the line.
+The [color](/docs/reference/colors) to use when painting the line.
 
 ### `thickness`
 

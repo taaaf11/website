@@ -61,7 +61,7 @@ The action should not be "dismiss" or "cancel".
 
 ### `action_color`
 
-The foreground [color](/docs/guides/python/colors) of action button.
+The foreground [color](/docs/reference/colors) of action button.
 
 ### `behavior`
 
@@ -75,7 +75,7 @@ If this value is `SnackBarBehavior.FLOATING`, the length of the bar is defined b
 
 ### `bgcolor`
 
-SnackBar background [color](/docs/guides/python/colors).
+SnackBar background [color](/docs/reference/colors).
 
 ### `close_icon_color`
 

@@ -56,7 +56,7 @@ ft.app(target=main)
 
 ### `bgcolor`
 
-Background [color](/docs/guides/python/colors) of the tooltip.
+Background [color](/docs/reference/colors) of the tooltip.
 
 ### `border`
 

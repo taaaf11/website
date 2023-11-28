@@ -10,7 +10,7 @@ There are 2 ways to define color property value in Flet: hex value and named col
 
 ### Hex value
 
-Hex value should be in format `#aarrggbb` (`0xaarrggbb`) or `#rrggbb` (`0xeeggbb`). In case `aa` ([opacity](/docs/guides/python/colors#color-opacity)) is omitted, it is set to `ff` (not transparent).
+Hex value should be in format `#aarrggbb` (`0xaarrggbb`) or `#rrggbb` (`0xeeggbb`). In case `aa` ([opacity](/docs/reference/colors#color-opacity)) is omitted, it is set to `ff` (not transparent).
 
 ```python
 c1 = ft.Container(bgcolor='#ff0000')

@@ -42,7 +42,7 @@ ft.app(target=main)
 
 ### `bgcolor`
 
-The [color](/docs/guides/python/colors) of the NavigationBar itself.
+The [color](/docs/reference/colors) of the NavigationBar itself.
 
 ### `destinations`
 
@@ -56,7 +56,7 @@ The elevation of the NavigationBar itself.
 
 ### `indicator_color`
 
-The [color](/docs/guides/python/colors) of the selected destination indicator.
+The [color](/docs/reference/colors) of the selected destination indicator.
 
 ### `indicator_shape`
 
@@ -80,7 +80,7 @@ The index into `destinations` for the current selected `NavigationDestination` o
 
 ### `shadow_color`
 
-The [color](/docs/guides/python/colors) used for the drop shadow to indicate `elevation`.
+The [color](/docs/reference/colors) used for the drop shadow to indicate `elevation`.
 
 ### `surface_tint_color`
 

@@ -71,7 +71,7 @@ badge.alignment = ft.alignment.top_left
 ```
 ### `bgcolor`
 
-Background [color](/docs/guides/python/colors) of the label.
+Background [color](/docs/reference/colors) of the label.
 
 ### `content`
 
@@ -119,7 +119,7 @@ If `text` is provided, the label is a StadiumBorder shaped badge with height equ
 
 ### `text_color`
 
-[Color](/docs/guides/python/colors) of the text shown in the label. This color overrides the color of the label's `text_style`.
+[Color](/docs/reference/colors) of the text shown in the label. This color overrides the color of the label's `text_style`.
 
 ### `text_style`
 

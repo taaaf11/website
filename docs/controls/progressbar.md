@@ -62,11 +62,11 @@ The minimum height of the line used to draw the linear indicator. Default is 4.
 
 ### `color`
 
-The progress indicator's [color](/docs/guides/python/colors).
+The progress indicator's [color](/docs/reference/colors).
 
 ### `bgcolor`
 
-[Color](/docs/guides/python/colors) of the track being filled by the linear indicator.
+[Color](/docs/reference/colors) of the track being filled by the linear indicator.
 
 ### `tooltip`
 

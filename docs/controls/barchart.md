@@ -223,11 +223,11 @@ Enables automatic tooltips when hovering chart bars.
 
 ### `bgcolor`
 
-Background [color](/docs/guides/python/colors) of the chart.
+Background [color](/docs/reference/colors) of the chart.
 
 ### `tooltip_bgcolor`
 
-Background [color](/docs/guides/python/colors) of tooltips.
+Background [color](/docs/reference/colors) of tooltips.
 
 ### `border`
 
@@ -320,7 +320,7 @@ The width of a rod. Default is `8`.
 
 ### `color`
 
-Rod [color](/docs/guides/python/colors). Default is `cyan`.
+Rod [color](/docs/reference/colors). Default is `cyan`.
 
 ### `gradient`
 
@@ -344,7 +344,7 @@ An optional ending position of a background behind a rod.
 
 ### `bg_color`
 
-An optional [color](/docs/guides/python/colors) of a background behind a rod.
+An optional [color](/docs/reference/colors) of a background behind a rod.
 
 ### `bg_gradient`
 
@@ -382,7 +382,7 @@ The ending position for a stack item inside a bar rod.
 
 ### `color`
 
-A [color](/docs/guides/python/colors) of stack item.
+A [color](/docs/reference/colors) of stack item.
 
 ### `border_side`
 
@@ -398,7 +398,7 @@ Interval between grid lines. Default is `1`.
 
 ### `color`
 
-[Color](/docs/guides/python/colors) of a grid line.
+[Color](/docs/reference/colors) of a grid line.
 
 ### `width`
 

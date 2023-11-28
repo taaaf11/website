@@ -148,11 +148,11 @@ True if the control will be selected as the initial focus. If there is more than
 
 ### `bgcolor`
 
-Button's background [color](/docs/guides/python/colors).
+Button's background [color](/docs/reference/colors).
 
 ### `color`
 
-Button's text [color](/docs/guides/python/colors).
+Button's text [color](/docs/reference/colors).
 
 ### `content`
 
@@ -168,7 +168,7 @@ Icon shown in the button.
 
 ### `icon_color`
 
-Icon [color](/docs/guides/python/colors).
+Icon [color](/docs/reference/colors).
 
 ### `style`
 
