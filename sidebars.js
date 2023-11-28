@@ -10,6 +10,9 @@ module.exports = {
         id: "create/overview",
       },
       items: [
+        "create/getting-started",
+        //'create/displaying-data',
+        "create/getting-user-input",
         "create/page-1",
         "create/page-2",
       ],
@@ -34,6 +37,32 @@ module.exports = {
         id: "publish/overview",
       },
       items: [
+        {
+          type: "category",
+          label: "Deploying web app",
+          link: {
+            type: "doc",
+            id: "publish/deploying-web-app/overview",
+          },
+          items: [
+            "publish/deploying-web-app/customizing-web-app",
+            "publish/deploying-web-app/running-flet-with-fastapi",
+            "publish/deploying-web-app/progressive-web-apps",
+            {
+              type: "category",
+              label: "Hosting providers",
+              link: {
+                type: "doc",
+                id: "publish/deploying-web-app/hosting-providers/overview",
+              },
+              items: [
+                "publish/deploying-web-app/hosting-providers/fly-io",
+                "publish/deploying-web-app/hosting-providers/replit",
+                "publish/deploying-web-app/hosting-providers/self-hosting",
+              ],
+            },
+          ],
+        },
         "publish/page-1",
         "publish/page-2",
       ],
@@ -211,11 +240,7 @@ module.exports = {
       type: "category",
       label: "Cookbook",
       items: [
-        "guides/python/getting-started",
-        //'guides/python/displaying-data',
-        "guides/python/getting-user-input",
         "guides/python/keyboard-shortcuts",
-        "guides/python/colors",
         "guides/python/large-lists",
         "guides/python/drag-and-drop",
         "guides/python/navigation-and-routing",
@@ -236,32 +261,6 @@ module.exports = {
         "guides/python/hot-reload",
         "guides/python/packaging-desktop-app",
         "guides/python/publishing-static-website",
-        {
-          type: "category",
-          label: "Deploying web app",
-          link: {
-            type: "doc",
-            id: "guides/python/deploying-web-app/overview",
-          },
-          items: [
-            "guides/python/deploying-web-app/customizing-web-app",
-            "guides/python/deploying-web-app/running-flet-with-fastapi",
-            "guides/python/deploying-web-app/progressive-web-apps",
-            {
-              type: "category",
-              label: "Hosting providers",
-              link: {
-                type: "doc",
-                id: "guides/python/deploying-web-app/hosting-providers/overview",
-              },
-              items: [
-                "guides/python/deploying-web-app/hosting-providers/fly-io",
-                "guides/python/deploying-web-app/hosting-providers/replit",
-                "guides/python/deploying-web-app/hosting-providers/self-hosting",
-              ],
-            },
-          ],
-        },
         "guides/python/logging",
       ],
     },
@@ -286,6 +285,7 @@ module.exports = {
       type: "category",
       label: "Reference",
       items: [
+        "reference/colors",
         {
           type: "category",
           label: "CLI",
