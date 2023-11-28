@@ -7,3 +7,5 @@
 /docs/guides/python/deploying-web-app/hosting-providers /docs/publish/deploying-web-app/hosting-providers
 /docs/guides/python/deploying-web-app/fly-io /docs/publish/deploying-web-app/fly-io
 /docs/guides/python/deploying-web-app/replit /docs/publish/deploying-web-app/replit
+
+/docs/cli/* /docs/reference/cli/:splat

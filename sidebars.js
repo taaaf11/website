@@ -291,13 +291,13 @@ module.exports = {
           label: "CLI",
           link: {
             type: "doc",
-            id: "cli/index",
+            id: "reference/cli/index",
           },
           items: [
-            "cli/create",
-            "cli/run",
-            "cli/pack",
-            "cli/publish",
+            "reference/cli/create",
+            "reference/cli/run",
+            "reference/cli/pack",
+            "reference/cli/publish",
           ],
         }
       ],
