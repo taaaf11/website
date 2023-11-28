@@ -429,7 +429,7 @@ Congratulations! You have created your Chat app in Python with Flet, and it look
 
 Now it's time to share your app with the world!
 
-[Follow these instructions](/docs/guides/python/deploying-web-app/hosting-providers) to deploy your Flet app as a web app to Fly.io or Replit.
+[Follow these instructions](/docs/publish/deploying-web-app/hosting-providers) to deploy your Flet app as a web app to Fly.io or Replit.
 
 ## What's next
 

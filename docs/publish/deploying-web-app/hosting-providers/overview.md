@@ -1,7 +1,7 @@
 ---
 title: Choosing hosting provider
 sidebar_label: Hosting providers
-slug: /guides/python/deploying-web-app/hosting-providers
+slug: /publish/deploying-web-app/hosting-providers
 ---
 
 Flet apps use WebSockets for real-time partial updates of their UI and sending events back to your program.

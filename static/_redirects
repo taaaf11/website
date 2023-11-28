@@ -1,1 +1,9 @@
 /docs/guides/python/colors /docs/reference/colors
+/docs/guides/python/getting-started /docs
+
+/docs/guides/python/deploying-web-app /docs/publish/deploying-web-app
+/docs/guides/python/deploying-web-app/running-flet-with-fastapi /docs/publish/deploying-web-app/running-flet-with-fastapi
+/docs/guides/python/deploying-web-app/customizing-web-app /docs/publish/deploying-web-app/customizing-web-app
+/docs/guides/python/deploying-web-app/hosting-providers /docs/publish/deploying-web-app/hosting-providers
+/docs/guides/python/deploying-web-app/fly-io /docs/publish/deploying-web-app/fly-io
+/docs/guides/python/deploying-web-app/replit /docs/publish/deploying-web-app/replit

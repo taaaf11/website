@@ -25,7 +25,7 @@ The information in this section is based on the following sources (check them ou
 
 ### Manifest
 
-You can change PWA's name, description, colors and other information in `manifest.json` that must be put in the root of [assets directory](/docs/guides/python/deploying-web-app/customizing-web-app).
+You can change PWA's name, description, colors and other information in `manifest.json` that must be put in the root of [assets directory](/docs/publish/deploying-web-app/customizing-web-app).
 
 Here are the links to the most common manifest items that you'd like to customize:
 
