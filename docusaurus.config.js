@@ -87,10 +87,6 @@ module.exports = {
               to: 'docs',
             },
             {
-              label: 'Python guide',
-              to: 'docs/guides/python/getting-started',
-            },
-            {
               label: 'Controls reference',
               to: 'docs/controls',
             }
@@ -182,8 +178,8 @@ module.exports = {
   //       redirects: [
   //         // /docs/oldDoc -> /docs/newDoc
   //         {
-  //           to: '/docs/guides/python/getting-started',
-  //           from: '/docs/guides/python/getting-started',
+  //           to: '/docs',
+  //           from: '/docs',
   //         },
   //         // Redirect from multiple old paths to the new path
   //         // {
