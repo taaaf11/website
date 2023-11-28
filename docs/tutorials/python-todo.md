@@ -1,6 +1,6 @@
 ---
 title: Create To-Do app in Python with Flet
-sidebar_label: Python - To-Do app
+sidebar_label: To-Do app
 slug: python-todo
 ---
 

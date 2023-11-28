@@ -1,6 +1,6 @@
 ---
 title: Create Calculator app in Python with Flet
-sidebar_label: Python - Calculator app
+sidebar_label: Calculator app
 slug: python-calculator
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Making a Trello clone with Python and Flet
-sidebar_label: Python - Trello clone
+sidebar_label: Trello clone
 slug: trello-clone
 ---
 

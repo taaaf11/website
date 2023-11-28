@@ -1,6 +1,6 @@
 ---
 title: Creating realtime chat app in Python
-sidebar_label: Python - Realtime Chat app
+sidebar_label: Realtime Chat app
 ---
 
 In this tutorial we are going to create a trivial in-memory Chat app that will help you understand Flet framework basics. This app could be a good starting point to creating your own more complex and useful projects.

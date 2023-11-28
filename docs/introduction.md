@@ -84,9 +84,3 @@ ft.app(target=main, view=ft.AppView.WEB_BROWSER)
 run again and now you instantly get a web app:
 
 <img src="/img/docs/getting-started/flet-counter-safari.png" className="screenshot-50" />
-
-## Tutorials
-
-Want to learn how to build a real app? Jump to a getting started guide for your language:
-
-* [Python](/docs/guides/python/getting-started)

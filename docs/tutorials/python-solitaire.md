@@ -1,6 +1,6 @@
 ---
 title: Creating Solitaire game with Python and Flet - Part 1
-sidebar_label: Python - Solitaire game
+sidebar_label: Solitaire game
 slug: python-solitaire
 ---
 
