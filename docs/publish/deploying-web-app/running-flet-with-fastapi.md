@@ -21,7 +21,7 @@ pip install flet-fastapi
 :::caution Important
 
 Flet app (and its dependent libraries) must be async to be able to run within FastAPI.
-[Check this article](/docs/guides/python/async-apps) to learn how to write async Flet apps
+[Check this article](/docs/create/async-apps) to learn how to write async Flet apps
 and we also recommend reading [FastAPI's article about async/await](https://fastapi.tiangolo.com/async/) to better understand the differences between concurrency and parallelism.
 
 :::
@@ -214,7 +214,7 @@ async def flet_uploads(request: Request):
 
 ### OAuth callback handler
 
-Handles OAuth flow callback requests. If your app does't use [authentication](/docs/guides/python/authentication) then this endpoint is not needed.
+Handles OAuth flow callback requests. If your app does't use [authentication](/docs/cookbook/authentication) then this endpoint is not needed.
 
 ```python
 from flet_fastapi import FletOAuth

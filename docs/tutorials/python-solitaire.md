@@ -1098,7 +1098,7 @@ def place(self, slot):
     self.solitaire.update()
 ```
 
-Finally, if the winning condition is met, it will trigger a winning sequence involving [position animation](https://flet.dev/docs/guides/python/animations#position-animation):
+Finally, if the winning condition is met, it will trigger a winning sequence involving [position animation](https://flet.dev/docs/cookbook/animations#position-animation):
 ```python
 def winning_sequence(self):
     for slot in self.foundations:   

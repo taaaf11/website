@@ -106,7 +106,7 @@ In the previous step we have created a simple web app that takes input from the 
 
 To build a realtime chat app, you need to somehow pass the messages between chat app sessions. When a user sends a message, it should be broadcasted to all other app sessions and displayed on their pages.
 
-Flet provides a simple built-in [PubSub](/docs/guides/python/pub-sub) mechanism for asynchronous communication between page sessions.
+Flet provides a simple built-in [PubSub](/docs/cookbook/pub-sub) mechanism for asynchronous communication between page sessions.
 
 First, we need subscribe the user to receive broadcast messages:
 ```python
@@ -234,7 +234,7 @@ def join_click(e):
         page.pubsub.send_all(Message(user=user_name.value, text=f"{user_name.value} has joined the chat.", message_type="login_message"))
         page.update()
 ```
-We used [page session storage](/docs/guides/python/session-storage) to store user_name for its future use in `send_click` method to send chat messages.
+We used [page session storage](/docs/cookbook/session-storage) to store user_name for its future use in `send_click` method to send chat messages.
 
 :::note
 User name dialog will close as soon as we set its `open` property to `False` and call `update()` method. 

@@ -45,7 +45,7 @@ For any specific requirements use [`Semantics`](/docs/controls/semantics) contro
 
 Set `page.show_semantics_debugger` to `True` to show an overlay that shows the accessibility information reported by the framework.
 
-You can implement a specific [keyboard shortcut](/docs/guides/python/keyboard-shortcuts) to conveniently toggle semantics debugger during app development:
+You can implement a specific [keyboard shortcut](/docs/cookbook/keyboard-shortcuts) to conveniently toggle semantics debugger during app development:
 
 <img src="/img/docs/getting-started/debug-accessibility-toggle.gif" className="screenshot-50" />
 
