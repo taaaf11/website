@@ -10,7 +10,6 @@ module.exports = {
         id: "create/overview",
       },
       items: [
-        "create/getting-started",
         //'create/displaying-data',
         "create/getting-user-input",
         "create/page-1",

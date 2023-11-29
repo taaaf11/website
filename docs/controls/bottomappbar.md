@@ -62,7 +62,7 @@ ft.app(target=main)
 
 ### `bgcolor`
 
-The fill [color](/docs/guides/python/colors) to use for the BottomAppBar. Default color is defined by current theme.
+The fill [color](/docs/reference/colors) to use for the BottomAppBar. Default color is defined by current theme.
 
 ### `clip_behavior`
 
@@ -103,7 +103,7 @@ Defaults to `padding.symmetric(vertical=12.0, horizontal=16.0)`.
 
 ### `shadow_color`
 
-The [color](/docs/guides/python/colors) of the shadow below the BottomAppBar. 
+The [color](/docs/reference/colors) of the shadow below the BottomAppBar. 
 
 ### `shape`
 
@@ -114,7 +114,7 @@ The notch that is made for the floating action button. The value is `NotchShape`
 
 ### `surface_tint_color`
 
-The [color](/docs/guides/python/colors) used as an overlay on `bgcolor` to indicate elevation.
+The [color](/docs/reference/colors) used as an overlay on `bgcolor` to indicate elevation.
 
 If this is `None`, no overlay will be applied. Otherwise this color will be composited on top of `bgcolor` with an opacity related to `elevation` and used to paint the BottomAppBar's background.
 
