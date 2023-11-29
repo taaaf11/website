@@ -31,10 +31,10 @@ module.exports = {
     {
       type: "category",
       label: "Publish Flet app",
-      link: {
-        type: "doc",
-        id: "publish/overview",
-      },
+      // link: {
+      //   type: "doc",
+      //   id: "publish/overview",
+      // },
       items: [
         "publish/packaging-desktop-app",
         "publish/publishing-static-website",
