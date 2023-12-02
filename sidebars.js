@@ -7,25 +7,17 @@ module.exports = {
       label: "Create Flet app",
       link: {
         type: "doc",
-        id: "create/overview",
+        id: "create/create-flet-app",
       },
       items: [
-        'create/async-apps',
-        "create/getting-user-input",
+        'create/running-app',
+        'create/flet-app-structure',
+        'create/flet-controls',
         'create/navigation-and-routing',
         'create/user-controls',
-      ],
-    },
-    {
-      type: "category",
-      label: "Run Flet app",
-      link: {
-        type: "doc",
-        id: "run/overview",
-      },
-      items: [
-        "run/testing-on-ios",
-        "run/testing-on-android",
+        "create/testing-on-ios",
+        "create/testing-on-android",
+        'create/async-apps',
       ],
     },
     {

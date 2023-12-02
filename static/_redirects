@@ -9,8 +9,8 @@
 /docs/cookbook/deploying-web-app/replit /docs/publish/deploying-web-app/replit
 
 /docs/cookbook/async-apps /docs/create/async-apps
-/docs/cookbook/testing-on-android /docs/run/testing-on-android
-/docs/cookbook/testing-on-ios /docs/run/testing-on-ios
+/docs/cookbook/testing-on-android /docs/create/testing-on-android
+/docs/cookbook/testing-on-ios /docs/create/testing-on-ios
 /docs/cookbook/publishing-static-website /docs/publish/publishing-static-website
 /docs/cookbook/hot-reload /docs/reference/cli/run
 /docs/cookbook/packaging-desktop-app /docs/publish/packaging-desktop-app
