@@ -379,6 +379,8 @@ Value is of type [`MainAxisAlignment`](/docs/reference/types/mainaxisalignment).
 
 `True` if scrollbar should automatically move its position to the end when children updated. Must be `False` for `scroll_to()` method to work.
 
+Value is of type `bool` and defaults to `False`.
+
 ### `controls`
 
 A list of Controls to display inside the Column.
@@ -396,11 +398,15 @@ Throttling in milliseconds for `on_scroll` event. Default is `10`.
 
 ### `rtl`
 
-`True` to set text direction to right-to-left. Default is `False`.
+`True` to set text direction to right-to-left.
+
+Value is of type `bool` and defaults to `False`.
 
 ### `run_spacing`
 
-Spacing between runs when `wrap=True`. Default value is 10.
+Spacing between runs when `wrap=True`.
+
+Value can be of type `float` or `int` and defaults to `10`.
 
 ### `scroll`
 
@@ -410,17 +416,21 @@ Value is of type [`ScrollMode`](/docs/reference/types/scrollmode) and defaults t
 
 ### `spacing`
 
-Spacing between controls in a Column. Default value is 10 virtual pixels. Spacing is applied only when `alignment` is set to `start`, `end` or `center`.
+Spacing between controls in a Column. Spacing is applied only when `alignment` is set to `start`, `end` or `center`.
+
+Value can be of type `float` or `int` and defaults to `10` virtual pixels.
 
 ### `tight`
 
 Specifies how much space should be occupied vertically.
 
-Defaults to `False` - allocate all space to children.
+Value is of type `bool` and defaults to `False`, allocating all space to children.
 
 ### `wrap`
 
 When set to `True` the Column will put child controls into additional columns (runs) if they don't fit a single column.
+
+Value is of type `bool` and defaults to `False`.
 
 ## Methods
 
